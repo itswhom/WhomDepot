@@ -1,7 +1,7 @@
 # WhomDepot
 Various things helpful to Whom. Config files, bookmarks, resources, and more.
 
-## Directories
+## Program Configs
 
  * [VSCode](https://github.com/itswhom/WhomDepot/tree/main/VSCode)
  
