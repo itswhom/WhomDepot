@@ -1,0 +1,45 @@
+{
+    "editor.fontFamily": "'Victor Mono'", // Ensure font chosen supports ligatures
+                                          //    - Victor Mono: https://github.com/rubjo/victor-mono
+                                          //    - Fira Code: https://github.com/tonsky/FiraCode
+    "editor.fontLigatures": true, // Enable ligatures ( >= into ≥ )
+    {"column": 79, "color":"#ffffff10"}, // Enables vertical rulers at 79, 80, and 120 characters
+        {"column": 80, "color":"#ffffff20"},
+        {"column": 120, "color":"#ffffff30"},
+    ],
+    "workbench.colorTheme": "Dracula", // Set theme to Dracula
+    "workbench.colorCustomizations": {
+        "editor.lineHighlightBackground": "#1073cf2d",
+        "editor.lineHighlightBorder": "#9fced11f"
+    },
+    "editor.wordWrap": "bounded", // Enables wordwrap at ruler or window screen
+    "diffEditor.wordWrap": "off", // Diff editor nowrap
+    "editor.guides.indentation": false,
+    "editor.guides.bracketPairs": false,
+    "editor.inlayHints.enabled": false,
+    "workbench.iconTheme": "vscode-icons",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "vsicons.dontShowNewVersionMessage": true,
+    "files.trimTrailingWhitespace": true, // On save, remove trailing whitespace
+    "editor.multiCursorModifier": "ctrlCmd", // Set multiline select key to Ctrl or Cmd
+    "editor.tokenColorCustomizations": { // Formats certain text as Italic
+        "textMateRules": [
+            {
+                "scope": [
+                    "comment",
+                ],
+                "settings": {
+                    "fontStyle": "italic",
+                }
+            }
+        ]
+    },
+    "editor.cursorBlinking": "smooth", // Smoother blink than normal
+    "editor.wrappingIndent": "indent", // Single indent on wrapped line
+    "editor.minimap.renderCharacters": false, // Minimap as color blocks instead of rendered text
+    "editor.showFoldingControls": "always", // Always show folding arrows in left margin
+    "editor.minimap.showSlider": "always", // Minimap always shows highlighted current area
+    "window.title": "${rootName}${separator}${activeEditorMedium}${dirty}",
+    "editor.wordWrapColumn": 120, // Column at which wrap occurs, even if window is wider
+    "editor.fontSize": 18, // The font size
+}
