@@ -1,6 +1,6 @@
 # Cookie Clicker Strategy
 
-Mostly not created by me, but compiled from various sources around the web.
+I've played Cookie Clicker several times, and most recently started playing the Steam version. Keeping a record of my strategy here. Most of this file will likely not be created by me, but compiled from various sources around the web.
 
 ## Sugar Lumps Purchase Order
 
