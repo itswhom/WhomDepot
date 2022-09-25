@@ -1,6 +1,10 @@
 # WhomDepot
 Various things helpful to Whom. Config files, bookmarks, resources, and more.
 
+## Gaming
+
+ * [Cookie Clicker](https://github.com/itswhom/WhomDepot/tree/main/Gaming/CookieClicker)
+
 ## Program Configs
 
  * [VSCode](https://github.com/itswhom/WhomDepot/tree/main/VSCode)
