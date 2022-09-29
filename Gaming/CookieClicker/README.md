@@ -12,6 +12,21 @@ Most of this comes from [Hecent's guide](https://steamcommunity.com/sharedfiles/
 4. Banks (unlock Stock Market) **[1]**
 5. Garden to level 9 **[44]**
 
+## Pantheon
+
+**Skruuia** can be slotted just before popping wrinklers and the player will still recieve the increased cookies from wrinklers.
+
+Active build:
+ * Godzamok
+ * Mokalsium
+ * Muridal
+
+Idle build:
+ * Mokalsium - Milk is +% more powerful
+ * Holobore - +% base CpS
+ * Jeremy - Buildings produce +% more
+ * Cyclius - CpS bonus fluctuating between +15% and -15% over time
+
 ## Garden
 
 [TheBigLetterE's Garden Guide](https://www.reddit.com/r/CookieClicker/comments/e1sxnr/comprehensive_guide_to_garden_strategy/)
