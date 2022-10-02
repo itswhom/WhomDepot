@@ -15,3 +15,4 @@ Various things helpful to Whom. Config files, bookmarks, resources, and more.
  * [gitignore.io](https://gitignore.io/)
  * [regex101](https://regex101.com/)
  * [difftastic](https://github.com/Wilfred/difftastic)
+ * [Oh My Git!](https://ohmygit.org/)
