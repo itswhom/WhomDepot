@@ -1,4 +1,8 @@
-# Cookie Clicker Strategy
+# Cookie Clicker
+
+## Link to the Game
+
+[Cookie Clicker](https://orteil.dashnet.org/cookieclicker/)
 
 I've played Cookie Clicker several times, and most recently started playing the Steam version. Keeping a record of my strategy here. Most of this file will likely not be created by me, but compiled from various sources around the web.
 
