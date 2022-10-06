@@ -1,6 +1,6 @@
 # Cookie Clicker
 
-## Link to the Game
+## Info
 
 [Cookie Clicker](https://orteil.dashnet.org/cookieclicker/)
 
