@@ -42,7 +42,7 @@ Idle build:
    * 2x Baker’s wheat (0.05)
    * 2x Thumbcorn (0.1)
    * 2x Cronerice (0.02)
-- [ ] Cronerice
+- [x] Cronerice
    * 1x Baker’s Wheat, 1x Thumbcorn (0.01)
 - [ ] Bakeberry
    * 2x Baker’s Wheat (0.001)
