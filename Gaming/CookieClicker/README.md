@@ -150,6 +150,7 @@ https://docs.google.com/document/d/1adeoFt_hzVFGIL_DEgxtPaY0q_BC1jKkInCORLSFaKg/
  - [ ] virtues
  - [ ] abaddon
  - [ ] permanent upgrade slot ii (put highest kitten upgrade here)
+> every ascension, put best finger in this slot
  - [ ] dominions
  - [ ] satan
  - [ ] synergies vol i
