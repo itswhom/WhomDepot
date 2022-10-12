@@ -124,6 +124,37 @@ Idle build:
 - [ ] Ichorpuff
    * 1x Elderwort, 1x Crumbspore (0.002)
 
-## Ascension Guide
+## Ascension
 
 https://docs.google.com/document/d/1adeoFt_hzVFGIL_DEgxtPaY0q_BC1jKkInCORLSFaKg/edit
+
+ - [ ] legacy
+ - [ ] persistent memory
+ - [ ] how to bake your dragon
+ - [ ] permanent upgrade slot i (put highest finger upgrade here)  
+> every ascension, put best finger in this slot
+ - [ ] twin gates of transcendence
+ - [ ] angels
+ - [ ] belphegor
+ - [ ] tin of british tea biscuits
+ - [ ] box of macarons
+ - [ ] box of brand biscuits
+ - [ ] tin of butter cookies
+ - [ ] archangels
+ - [ ] mammon
+ - [ ] starter kit
+ - [ ] heavenly luck
+ - [ ] season switcher
+ - [ ] lasting fortune
+ - [ ] golden switch
+ - [ ] virtues
+ - [ ] abaddon
+ - [ ] permanent upgrade slot ii (put highest kitten upgrade here)
+ - [ ] dominions
+ - [ ] satan
+ - [ ] synergies vol i
+ - [ ] starter kitchen
+ - [ ] decisive fate
+ - [ ] kitten angels
+ - [ ] golden cookie alert sound
+ - [ ] cherubim/asmodeus
