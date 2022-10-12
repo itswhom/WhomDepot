@@ -2,7 +2,7 @@
 
 ## Info
 
-[Cookie Clicker](https://orteil.dashnet.org/cookieclicker/)
+[Cookie Clicker Game Link](https://orteil.dashnet.org/cookieclicker/)
 
 I've played Cookie Clicker several times, and most recently started playing the Steam version. Keeping a record of my strategy here. Most of this file will likely not be created by me, but compiled from various sources around the web.
 
@@ -123,3 +123,7 @@ Idle build:
    * 3x Tidygrass, 3x Elderwort (0.002)
 - [ ] Ichorpuff
    * 1x Elderwort, 1x Crumbspore (0.002)
+
+## Ascension Guide
+
+https://docs.google.com/document/d/1adeoFt_hzVFGIL_DEgxtPaY0q_BC1jKkInCORLSFaKg/edit
