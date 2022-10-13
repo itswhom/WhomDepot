@@ -128,15 +128,16 @@ Idle build:
 
 https://docs.google.com/document/d/1adeoFt_hzVFGIL_DEgxtPaY0q_BC1jKkInCORLSFaKg/edit
 
- - [ ] legacy
- - [ ] persistent memory
- - [ ] how to bake your dragon
+ - [x] legacy (1)
+ - [x] persistent memory (500)
+ - [x] how to bake your dragon (9)
  - [ ] permanent upgrade slot i (put highest finger upgrade here)  
 > every ascension, put best finger in this slot
- - [ ] twin gates of transcendence
- - [ ] angels
- - [ ] belphegor
- - [ ] tin of british tea biscuits
+ - [x] twin gates of transcendence (1)
+ - [x] angels (7)
+ - [x] belphegor (7)
+ - [x] heavenly cookies (3)
+ - [x] tin of british tea biscuits (25)
  - [ ] box of macarons
  - [ ] box of brand biscuits
  - [ ] tin of butter cookies
