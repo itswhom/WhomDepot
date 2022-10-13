@@ -124,6 +124,16 @@ Idle build:
 - [ ] Ichorpuff
    * 1x Elderwort, 1x Crumbspore (0.002)
 
+## Krumblor Dragon
+
+Active
+> Dragon Flight
+> Radiant Appetite
+
+Idle
+> Radiant Appetite
+> Breath of Milk
+
 ## Ascension
 
 https://docs.google.com/document/d/1adeoFt_hzVFGIL_DEgxtPaY0q_BC1jKkInCORLSFaKg/edit
