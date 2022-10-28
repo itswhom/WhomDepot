@@ -141,22 +141,22 @@ https://docs.google.com/document/d/1adeoFt_hzVFGIL_DEgxtPaY0q_BC1jKkInCORLSFaKg/
  - [x] legacy (1)
  - [x] persistent memory (500)
  - [x] how to bake your dragon (9)
- - [ ] permanent upgrade slot i (put highest finger upgrade here)  
+ - [x] permanent upgrade slot i (put highest finger upgrade here)  
 > every ascension, put best finger in this slot
  - [x] twin gates of transcendence (1)
  - [x] angels (7)
  - [x] belphegor (7)
  - [x] heavenly cookies (3)
  - [x] tin of british tea biscuits (25)
- - [ ] box of macarons
- - [ ] box of brand biscuits
- - [ ] tin of butter cookies
- - [ ] archangels
- - [ ] mammon
- - [ ] starter kit
- - [ ] heavenly luck
+ - [x] box of macarons
+ - [x] box of brand biscuits
+ - [x] tin of butter cookies
+ - [x] archangels
+ - [x] mammon
+ - [x] starter kit
+ - [x] heavenly luck
  - [ ] season switcher
- - [ ] lasting fortune
+ - [x] lasting fortune
  - [ ] golden switch
  - [ ] virtues
  - [ ] abaddon
