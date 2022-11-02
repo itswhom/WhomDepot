@@ -141,32 +141,33 @@ https://docs.google.com/document/d/1adeoFt_hzVFGIL_DEgxtPaY0q_BC1jKkInCORLSFaKg/
  - [x] legacy (1)
  - [x] persistent memory (500)
  - [x] how to bake your dragon (9)
- - [x] permanent upgrade slot i (put highest finger upgrade here)  
+ - [x] permanent upgrade slot i (100)  
 > every ascension, put best finger in this slot
  - [x] twin gates of transcendence (1)
  - [x] angels (7)
  - [x] belphegor (7)
  - [x] heavenly cookies (3)
  - [x] tin of british tea biscuits (25)
- - [x] box of macarons
- - [x] box of brand biscuits
- - [x] tin of butter cookies
- - [x] archangels
- - [x] mammon
- - [x] starter kit
- - [x] heavenly luck
- - [ ] season switcher
- - [x] lasting fortune
- - [ ] golden switch
- - [ ] virtues
- - [ ] abaddon
- - [ ] permanent upgrade slot ii (put highest kitten upgrade here)
-> every ascension, put best finger in this slot
- - [ ] dominions
+ - [x] box of macarons (25)
+ - [x] box of brand biscuits (25)
+ - [x] tin of butter cookies (25)
+ - [x] archangels (49)
+ - [x] mammon (49)
+ - [x] starter kit (50)
+ - [x] heavenly luck (77)
+ - [x] heralds (100)
+ - [ ] season switcher (1,111)
+ - [x] lasting fortune (777)
+ - [x] golden switch (999)
+ - [x] virtues (343)
+ - [x] abaddon (343)
+ - [ ] permanent upgrade slot ii (20,000)
+> every ascension, put best kitten in this slot
+ - [ ] dominions (2,401)
  - [ ] satan
  - [ ] synergies vol i
- - [ ] starter kitchen
- - [ ] decisive fate
+ - [ ] starter kitchen (5,000)
+ - [ ] decisive fate (7,777)
  - [ ] kitten angels
  - [ ] golden cookie alert sound
  - [ ] cherubim/asmodeus
