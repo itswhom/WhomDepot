@@ -24,6 +24,7 @@ Active build:
  * Godzamok
  * Mokalsium
  * Muridal
+ > Godzamok -> when you have a 7x cookie multiplier (and/or building multiplier) as well as a click multiplier, you sell all your farms, mines, factories, and banks before clicking the cookie.
 
 Idle build:
  * Mokalsium - Milk is +% more powerful
