@@ -127,11 +127,11 @@ Idle build:
 ## Krumblor Dragon
 
 Active
-> Dragon Flight
+> Dragon Flight  
 > Radiant Appetite
 
 Idle
-> Radiant Appetite
+> Radiant Appetite  
 > Breath of Milk
 
 ## Ascension
