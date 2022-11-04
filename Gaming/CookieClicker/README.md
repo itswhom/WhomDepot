@@ -33,6 +33,13 @@ Idle build:
  * Cyclius - CpS bonus fluctuating between +15% and -15% over time
 
 ## Seasons
+ - Christmas (Santas)
+ - Christmas (Reindeer)
+ - Easter
+ - Halloween
+ - activate Heavenly Chips
+ - Valentine
+
 From: https://www.reddit.com/r/CookieClicker/comments/ddnfja/whats_everyones_season_switcher_strategy/
 
 Because I have the Beginner's Luck heavenly upgrade, I go to Christmas immediately to get the Santas (for the random drop boost) and the Reindeer, then Easter, then Halloween, then activate the heavenly chips, go Valentine's quickly, then turn it off. I'll turn on Easter or Valentine's periodically if I need the third column for FTHOF, but this way, I only need four season switches to start off, which saves on cookies. I also have the omelette in a permanent slot, which saves a boatload of time by boosting my random chance more, and pop Mind Over Matter as soon as I get 100 Antimatter Condensers.
