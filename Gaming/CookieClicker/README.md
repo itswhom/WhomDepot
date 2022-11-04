@@ -157,7 +157,7 @@ https://docs.google.com/document/d/1adeoFt_hzVFGIL_DEgxtPaY0q_BC1jKkInCORLSFaKg/
  - [x] starter kit (50)
  - [x] heavenly luck (77)
  - [x] heralds (100)
- - [ ] season switcher (1,111)
+ - [x] season switcher (1,111)
  - [x] lasting fortune (777)
  - [x] golden switch (999)
  - [x] virtues (343)
