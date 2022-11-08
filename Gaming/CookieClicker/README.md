@@ -176,13 +176,13 @@ https://docs.google.com/document/d/1adeoFt_hzVFGIL_DEgxtPaY0q_BC1jKkInCORLSFaKg/
  - [x] golden switch (999)
  - [x] virtues (343)
  - [x] abaddon (343)
- - [ ] permanent upgrade slot ii (20,000)
+ - [x] permanent upgrade slot ii (20,000)
 > every ascension, put best kitten in this slot
- - [ ] dominions (2,401)
- - [ ] satan
- - [ ] synergies vol i
- - [ ] starter kitchen (5,000)
- - [ ] decisive fate (7,777)
- - [ ] kitten angels
+ - [x] dominions (2,401)
+ - [x] satan (2,401)
+ - [ ] synergies vol i (222,222)
+ - [x] starter kitchen (5,000)
+ - [x] decisive fate (7,777)
+ - [x] kitten angels (9,000)
  - [ ] golden cookie alert sound
  - [ ] cherubim/asmodeus
