@@ -63,7 +63,7 @@ If you don't have Beginner's Luck, you might as well go Valentine's first, since
    * 2x Baker’s Wheat (0.001)
 - [ ] Gildmillet
    * 1x Cronerice, 1x Thumbcorn (0.03)
-- [ ] Clover
+- [x] Clover
    * 1x Baker’s Wheat, 1x Gildmillet (0.03)
    * 2x mature Clover, less than 5x total clover (0.007)
 - [ ] Golden Clover
