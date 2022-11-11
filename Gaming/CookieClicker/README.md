@@ -180,7 +180,7 @@ https://docs.google.com/document/d/1adeoFt_hzVFGIL_DEgxtPaY0q_BC1jKkInCORLSFaKg/
 > every ascension, put best kitten in this slot
  - [x] dominions (2,401)
  - [x] satan (2,401)
- - [ ] synergies vol i (222,222)
+ - [x] synergies vol i (222,222)
  - [x] starter kitchen (5,000)
  - [x] decisive fate (7,777)
  - [x] kitten angels (9,000)
