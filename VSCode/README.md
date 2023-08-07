@@ -4,7 +4,7 @@
 
 ### General
  * Better Comments ([link](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments))
- * Blockman - Highlight Nested Code Blocks ([link](https://marketplace.visualstudio.com/items?itemName=leodevbro.blockman))
+ * Blockman - Highlight nested code blocks ([link](https://marketplace.visualstudio.com/items?itemName=leodevbro.blockman))
  * Bookmarks - Mark lines and jump to them ([link](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks))
  * Dracula Official ([link](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula))
  * IntelliCode ([link](https://marketplace.visualstudio.com/items?itemName=visualstudioexptteam.vscodeintellicode))
