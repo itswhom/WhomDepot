@@ -12,8 +12,10 @@
 
 ## Figma Plugins
 
+* Blush
+* Contrast
 * Lorem Ipsum
 * Material Design Icons
 * Style Manager
 * Unsplash
-* Blush
+
