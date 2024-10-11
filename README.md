@@ -16,3 +16,7 @@ Various things helpful to Whom. Config files, bookmarks, resources, and more.
  * [regex101](https://regex101.com/)
  * [difftastic](https://github.com/Wilfred/difftastic)
  * [Oh My Git!](https://ohmygit.org/)
+
+## Mac Setup
+
+ * [What's on my Mac](https://github.com/itswhom/WhomDepot/tree/main/Mac)
