@@ -11,6 +11,9 @@ https://www.alfredapp.com/
 - PowerPack for full features
 - Set as Command+Space shortcut to replace Spotlight
 
+- Add system settings to Alfred: https://alfred.app/workflows/alfredapp/system-settings/
+- Add emoji pack to Alfred: https://joelcalifa.com/blog/alfred-emoji-snippet-pack/
+
 ## DiscreteScroll
 https://github.com/emreyolcu/discrete-scroll
 - Override scroll wheel behavior, disabling scroll acceleration
