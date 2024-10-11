@@ -1,4 +1,4 @@
-# Mac Tools
+# What's on my Mac
 
 Documenting the apps I find useful for MacOS.
 
