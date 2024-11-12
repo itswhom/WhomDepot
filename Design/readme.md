@@ -23,4 +23,5 @@
 * Material Design Icons
 * Style Manager
 * Unsplash
+* Polychrom
 
