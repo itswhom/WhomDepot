@@ -31,9 +31,13 @@ https://www.mozilla.org/en-US/firefox/
 https://handmirror.app/
 - Simple way to check webcam view with one click, before joining meetings
 
-## Kitty
-https://sw.kovidgoyal.net/kitty/
-- Terminal replacement... with a cute name 🤷‍♀️
+## iTerm2
+[https://sw.kovidgoyal.net/kitty/](https://iterm2.com)
+- Terminal replacement
+
+```console
+brew install --cask iterm2
+```
 
 ## LinearMouse
 https://linearmouse.app
