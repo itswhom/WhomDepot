@@ -35,6 +35,12 @@ https://handmirror.app/
 https://sw.kovidgoyal.net/kitty/
 - Terminal replacement... with a cute name 🤷‍♀️
 
+## LinearMouse
+https://linearmouse.app
+```console
+brew install --cask linearmouse
+```
+
 ## MindNode
 https://www.mindnode.com/
 - Mind mapping software with a decent free version
