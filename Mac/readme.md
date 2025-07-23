@@ -37,6 +37,9 @@ https://sw.kovidgoyal.net/kitty/
 
 ## LinearMouse
 https://linearmouse.app
+
+Enables back/forward mouse buttons in Safari.
+
 ```console
 brew install --cask linearmouse
 ```
