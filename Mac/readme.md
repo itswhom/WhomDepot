@@ -56,3 +56,21 @@ https://www.mindnode.com/
 https://rectangleapp.com/
 - Window snapping with screen borders or keyboard shortcuts
 
+## Ubersicht
+http://tracesof.net/uebersicht/
+- Third-party widgets.
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/90dcc2ac-a021-4fb1-8dad-86af0cc19a0f" />
+
+The ones I use are:
+
+Analog Clock
+- https://tracesof.net/uebersicht-widgets/#AnalogClock
+
+Daily Random Kanji
+- https://tracesof.net/uebersicht-widgets/#Daily-Random-Kanji
+ 
+Memory Bar
+- https://tracesof.net/uebersicht-widgets/#memory-bar
+ 
+Simple White Calendar
+- https://tracesof.net/uebersicht-widgets/#uebersicht-calendar-jsx
