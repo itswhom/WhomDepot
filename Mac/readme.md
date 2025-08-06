@@ -6,7 +6,7 @@ Documenting the apps I find useful for MacOS.
 https://apphousekitchen.com/
 - 70% on new MacBook, increase to 80% or 90% as needed, when battery use degrades capacity.
 
-## Alfred
+## ~~Alfred~~
 https://www.alfredapp.com/
 - PowerPack for full features
 - Set as Command+Space shortcut to replace Spotlight
@@ -23,7 +23,7 @@ https://github.com/emreyolcu/discrete-scroll
 https://www.figma.com/
 - Design tool for wireframing and prototyping
 
-## Firefox
+## ~~Firefox~~
 https://www.mozilla.org/en-US/firefox/
 - Firefox with Ublock Origin
 
@@ -65,6 +65,9 @@ The ones I use are:
 
 Analog Clock
 - https://tracesof.net/uebersicht-widgets/#AnalogClock
+
+Cute Calendar Events
+- https://tracesof.net/uebersicht-widgets/#cuteical_widget
 
 Daily Random Kanji
 - https://tracesof.net/uebersicht-widgets/#Daily-Random-Kanji
