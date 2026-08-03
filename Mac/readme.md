@@ -52,6 +52,10 @@ brew install --cask linearmouse
 https://www.mindnode.com/
 - Mind mapping software with a decent free version
 
+## Obsidian
+https://obsidian.md/
+- Notetaking app, highly customizable
+
 ## Rectangle
 https://rectangleapp.com/
 - Window snapping with screen borders or keyboard shortcuts
