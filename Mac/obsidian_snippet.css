@@ -1,0 +1,82 @@
+.cm-contentContainer, .markdown-rendered {
+    line-height: 1.4; 
+    letter-spacing: -.04em;
+    color:#666;
+    font-weight:100;
+}
+/* .HyperMD-header-1, .HyperMD-header-2, .HyperMD-header-3 {
+  padding-top: 1em !important;
+} */
+ /* Live Preview */
+.HyperMD-header-1,
+.markdown-rendered h1 {
+  font-size: 2.0em !important;
+}
+
+.HyperMD-header-2,
+.markdown-rendered h2 {
+  font-size: 1.5em !important;
+  color:black;
+}
+
+.HyperMD-header-3,
+.markdown-rendered h3 {
+  font-size: 1.1em !important;
+  color:black;
+}
+
+/* Live Preview */
+.cm-strong,
+/* Reading view */
+.markdown-rendered strong {
+  color: #000000;
+  font-weight:900px;
+}
+
+/* Change Bullet Character globally for both Edit and Reading View */
+.markdown-source-view.mod-cm6 .list-bullet::after,
+.markdown-reading-view ul > li > .list-bullet::after {
+    /* Clear default Obsidian shapes */
+    background-color: transparent !important;
+    box-shadow: none !important;
+    width: auto !important;
+    height: auto !important;
+    border-radius: 0 !important;
+    
+    /* Insert your custom character */
+    content: "-"; 
+    
+    /* Adjust alignment and style */
+    color: var(--list-marker-color);
+    font-size: 1.1em;
+    display: inline-block;
+}
+
+.HyperMD-list-line .cm-formatting-list-ul,
+.HyperMD-list-line .cm-formatting-list-ol {
+  padding-inline-start: 0em !important;
+  padding-left: 0 !important;
+  margin-inline-start: 0 !important;
+  margin-left: 0 !important;
+  /* text-indent: -1.5em; */
+}
+
+/* .HyperMD-list-line { background: red !important; } */
+/* .HyperMD-list-line .cm-formatting-list-ul { background: yellow !important; } */
+
+.HyperMD-task-line input.task-list-item-checkbox {
+  margin-inline-start: 0 !important;
+  margin-left: 0.3ch !important;
+  padding-inline-start: 0ch !important;
+  margin-inline-end: 4.2ch !important;
+}
+
+/* First checkbox line in a run — space above */
+.HyperMD-task-line:not(.HyperMD-task-line + .HyperMD-task-line) {
+  padding-top: 1em !important;
+}
+
+/* Last checkbox line in a run — space below */
+.HyperMD-task-line:not(:has(+ .HyperMD-task-line)) {
+  padding-bottom: 1em !important;
+}
